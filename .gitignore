@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+lib/
+research_reports/
+wheels/
+.claude/
+docs/
+*.egg-info
+requires.md
+prompts.md
+WARP.md
+CLAUDE.md
+.env
+# Virtual environments
+.venv
+
+# Temporary files and cache
+temp/
+*.tmp
+*.cache
+*.db
+
+
+# uv cache and lock files
+.uv-cache/
+# Keep uv.lock for reproducible builds
